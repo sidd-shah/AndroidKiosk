@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AndroidKiosk</string>
+    <string name="action_settings">Settings</string>
+
+        <!-- locker app strings -->
+        <string name="title.password_dialog">TinyOwl Admin Access</string>
+        <string name="text.password">admin@</string>
+        <string name="text.mainActivity">MainActivity</string>
+        <string name="text.tinyowlAppId">com.tinyowl.prime</string>
+        <string name="initializing">Initializing</string>
+        <string name="toast.accessDenied">Access Denied</string>
+        <string name="title.lock_device">Lock Device</string>
+        <string name="title.unlock_device">Unlock Device</string>
+        <string name="package_launcher">com.sec.android.app.launcher</string>
+        <string name="package_android">android</string>
+        <string name="package_systemui">com.android.systemui</string>
+        <string name="kill_service">KillService</string>
+        <string name="kiosk_password">admin@0000000</string>
+        <string name="text_preparation_time_heading">Select Expected Preparation Time</string>
+        <string name="title.wifi_settings">WiFi Settings</string>
+        <string name="is_setting_open">is_setting_open</string>
+        <string name="is_device_admin_activated">is_device_admin_activated</string>
+        <string name="settings_package">com.android.settings</string>
+        <string name="usage_stats">usagestats</string>
+        <string name="package_installer">com.android.packageinstaller</string>
+        <string name="teamviewer_package">com.teamviewer.quicksupport.market</string>
+        <string name="playstore_package">com.android.vending</string>
+        <string name="restaurant_deactivate_warning">Are you sure you want to stop taking orders?</string>
+        <string name="restaurant_activate_warning">Are you sure you want to start taking orders?</string>
+        <string name="tinyowl_delivery_text">TinyOwl Delivery</string>
+        <string name="restaurant_delivery_text">Restaurant Delivery</string>
+        <string name="toggle_off">OFF</string>
+        <string name="toggle_on">ON</string>
+        <string name="no_internet_connection">No Internet Connection</string>
+
+
+
+</resources>
